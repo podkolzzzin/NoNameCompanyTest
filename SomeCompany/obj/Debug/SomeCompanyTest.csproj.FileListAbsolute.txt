@@ -1,0 +1,9 @@
+E:\PlariumTest\SomeCompany\bin\Debug\SomeCompanyTest.exe.config
+E:\PlariumTest\SomeCompany\bin\Debug\SomeCompanyTest.exe
+E:\PlariumTest\SomeCompany\bin\Debug\SomeCompanyTest.pdb
+E:\PlariumTest\SomeCompany\obj\Debug\SomeCompanyTest.csprojResolveAssemblyReference.cache
+E:\PlariumTest\SomeCompany\obj\Debug\SomeCompanyTest.MainForm.resources
+E:\PlariumTest\SomeCompany\obj\Debug\SomeCompanyTest.Properties.Resources.resources
+E:\PlariumTest\SomeCompany\obj\Debug\SomeCompanyTest.csproj.GenerateResource.Cache
+E:\PlariumTest\SomeCompany\obj\Debug\SomeCompanyTest.exe
+E:\PlariumTest\SomeCompany\obj\Debug\SomeCompanyTest.pdb
